@@ -1,0 +1,18 @@
+#!/bin/bash
+pkgname=megas-xlr
+pkgver=1.0
+pkgrel=1
+pkgdesc="Meta-package of the Megas applications"
+arch=('any')
+license=('GPL3')
+depends=(
+  'jadeite'
+  'saat'
+  'parachron'
+  'indium'
+  'resonance'
+)
+
+package() {
+  : # nothing to install — the dependencies do the work
+}
