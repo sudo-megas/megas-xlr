@@ -1,1 +1,0 @@
-megas.db.tar.gz.sig
