@@ -17,7 +17,7 @@
 git clone https://github.com/sudo-megas/megas-xlr.git
 cd megas-xlr
 sudo chmod +x install-megas.sh
-./install-megas.sh
+sudo ./install-megas.sh --install
 ```
 
 
