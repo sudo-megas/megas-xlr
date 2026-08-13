@@ -1,9 +1,9 @@
 <p align="middle">
-  <img src="build/saat.png" width="256" />
-  <img src="build/jadeite.png" width="256" /> 
-  <img src="build/parachron.png" width="256" />
-  <img src="build/indium.png" width="256" />
-  <img src="build/resonance.png" width="256" />
+  <img src="build/icons/saat.png" width="256" />
+  <img src="build/icons/jadeite.png" width="256" /> 
+  <img src="build/icons/parachron.png" width="256" />
+  <img src="build/icons/indium.png" width="256" />
+  <img src="build/icons/resonance.png" width="256" />
 </p>
 
 
