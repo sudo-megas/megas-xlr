@@ -25,9 +25,9 @@ sudo ./install-megas.sh --install
 <p align="left">
     <img alt="version"                src="https://img.shields.io/badge/VERSION-v2.1.1-yellow?style=for-the-badge">
     <img alt="Arch Linux package"     src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-    <img alt="Debian package"         src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+    <img alt="Debian package"         src="https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white">
     <img alt="Windows installer"      src="https://img.shields.io/badge/Windows-357EC6?style=for-the-badge&logo=windows&logoColor=white">
-    <img alt="Android APK"            src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img alt="Android APK"            src="https://img.shields.io/badge/Android-40A650?style=for-the-badge&logo=android&logoColor=white">
 </p>
 
 ***Local portable or installing desktop app for cataloguing a personal wristwatch collection.***
@@ -40,7 +40,7 @@ https://github.com/sudo-megas/SAAT
 <p align="left">
     <img alt="version"                src="https://img.shields.io/badge/VERSION-v1.2-darkgreen?style=for-the-badge">
     <img alt="Arch Linux package"     src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-    <img alt="Debian package"         src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+    <img alt="Debian package"         src="https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white">
     <img alt="Windows installer"      src="https://img.shields.io/badge/Windows-357EC6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
@@ -54,7 +54,7 @@ https://github.com/sudo-megas/JADEITE
 <p align="left">
     <img alt="version"                src="https://img.shields.io/badge/VERSION-v1.1.0-lightblue?style=for-the-badge">
     <img alt="Arch Linux package"     src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-    <img alt="Debian package"         src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+    <img alt="Debian package"         src="https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white">
     <img alt="Windows installer"      src="https://img.shields.io/badge/Windows-357EC6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
@@ -68,7 +68,7 @@ https://github.com/sudo-megas/PARACHRON
 <p align="left">
     <img alt="version"            src="https://img.shields.io/badge/VERSION-v2.1.0-orange?style=for-the-badge">
     <img alt="Arch Linux package" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-    <img alt="Debian package"     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+    <img alt="Debian package"     src="https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white">
 </p>
 
 ***The Most Verbose Archive Manager for Linux on Wayland.***
@@ -81,7 +81,7 @@ https://github.com/sudo-megas/INDIUM
 <p align="left">
     <img alt="version"            src="https://img.shields.io/badge/VERSION-v1.2.0-magenta?style=for-the-badge">
     <img alt="Arch Linux package" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-    <img alt="Debian package"     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+    <img alt="Debian package"     src="https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white">
 </p>
 
 ***.dotfile syncing that is for "users" not developers.***
