@@ -18,6 +18,7 @@ KEY_ID="62328913D18D8EC3"
 # ------------------------------------------------------------------------
 
 PACMAN_CONF="/etc/pacman.conf"
+SYNC_DIR="/var/lib/pacman/sync"
 
 if [[ "$1" == "--help" || -z "$1" ]]; then
   cat <<EOF
@@ -42,6 +43,17 @@ fi
 
 repo_exists() {
   grep -q "^\[$REPO_NAME\]" "$PACMAN_CONF"
+}
+
+# Drop any cached sync database/signature for this repo, so pacman always
+# fetches a fresh copy. Prevents a stale db signature (e.g. left over from an
+# older, signed database) from being validated against a new unsigned one.
+clear_sync_cache() {
+  echo "Clearing cached database for [$REPO_NAME]..."
+  rm -f "$SYNC_DIR/$REPO_NAME.db" \
+        "$SYNC_DIR/$REPO_NAME.db.sig" \
+        "$SYNC_DIR/$REPO_NAME.files" \
+        "$SYNC_DIR/$REPO_NAME.files.sig"
 }
 
 install_repo() {
@@ -72,6 +84,8 @@ install_repo() {
     echo "SigLevel = Required DatabaseOptional"
   } >> "$PACMAN_CONF"
 
+  clear_sync_cache
+
   echo "Syncing package databases..."
   pacman -Sy
 
@@ -95,6 +109,8 @@ remove_repo() {
     echo "Untrusting the signing key..."
     pacman-key --delete "$KEY_ID" 2>/dev/null || true
   fi
+
+  clear_sync_cache
 
   echo "Syncing package databases..."
   pacman -Sy
