@@ -66,7 +66,7 @@ https://github.com/sudo-megas/PARACHRON
 
 <h2 align="left">4. INDIUM</h1>
 <p align="left">
-    <img alt="version"            src="https://img.shields.io/badge/VERSION-v2.1.0-orange?style=for-the-badge">
+    <img alt="version"            src="https://img.shields.io/badge/VERSION-v2.5.0-orange?style=for-the-badge">
     <img alt="Arch Linux package" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
     <img alt="Debian package"     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </p>
