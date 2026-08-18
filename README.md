@@ -4,6 +4,7 @@
   <img src="build/icons/parachron.png" width="256" />
   <img src="build/icons/jadeite.png" width="256" />
   <img src="build/icons/indium.png" width="256" />
+<p align="middle">
   <img src="build/icons/tritium.png" width="256" />
 </p>
 
