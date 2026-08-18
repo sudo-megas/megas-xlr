@@ -122,6 +122,8 @@ https://github.com/sudo-megas/TRITIUM
 **RESONANCE** is free software under the **GNU General Public License, version 3 or later**
 (`GPL-3.0-or-later`).
 
+**TRITIUM** is free software under the **GNU General Public License, version 3 or later**
+(`GPL-3.0-or-later`).
 
 Copyright © sudo-megas · <https://github.com/sudo-megas>
 
