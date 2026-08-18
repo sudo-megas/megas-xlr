@@ -12,7 +12,7 @@ set -e
 
 # ---- REPO ----------------
 REPO_NAME="megas-xlr"
-REPO_URL="https://raw.githubusercontent.com/sudo-megas/megas-xlr/main/x86_64"
+REPO_URL="https://github.com/sudo-megas/megas-xlr/releases/download/repo"
 KEY_URL="https://raw.githubusercontent.com/sudo-megas/megas-xlr/main/sudo-megas-pubkey.asc"
 KEY_ID="62328913D18D8EC3"
 # ------------------------------------------------------------------------
