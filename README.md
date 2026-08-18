@@ -93,7 +93,7 @@ https://github.com/sudo-megas/RESONANCE
 
 <h2 align="left">6. TRITIUM</h1>
 <p align="left">
-    <img alt="version"                src="https://img.shields.io/badge/VERSION-vX.X.X-#3A6B9C?style=for-the-badge">
+    <img alt="version"                src="https://img.shields.io/badge/VERSION-vX.X.X-3A6B9C?style=for-the-badge">
     <img alt="Arch Linux package"     src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
     <img alt="Android APK"            src="https://img.shields.io/badge/Android-40A650?style=for-the-badge&logo=android&logoColor=white">
 </p>
