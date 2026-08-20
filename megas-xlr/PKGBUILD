@@ -1,7 +1,7 @@
 #!/bin/bash
 pkgname=megas-xlr
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Meta-package of the Megas applications"
 arch=('any')
 license=('GPL3')
