@@ -4,6 +4,7 @@
   <img src="build/icons/parachron.png" width="256" />
   <img src="build/icons/jadeite.png" width="256" />
   <img src="build/icons/indium.png" width="256" />
+<p align="middle">
   <img src="build/icons/tritium.png" width="256" />
 </p>
 
@@ -80,7 +81,7 @@ https://github.com/sudo-megas/INDIUM
 
 <h2 align="left">5. RESONANCE</h1>
 <p align="left">
-    <img alt="version"            src="https://img.shields.io/badge/VERSION-v1.2.0-magenta?style=for-the-badge">
+    <img alt="version"            src="https://img.shields.io/badge/VERSION-v1.4.0-magenta?style=for-the-badge">
     <img alt="Arch Linux package" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
     <img alt="Debian package"     src="https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white">
 </p>
@@ -93,7 +94,7 @@ https://github.com/sudo-megas/RESONANCE
 
 <h2 align="left">6. TRITIUM</h1>
 <p align="left">
-    <img alt="version"                src="https://img.shields.io/badge/VERSION-vX.X.X-#3A6B9C?style=for-the-badge">
+    <img alt="version"                src="https://img.shields.io/badge/VERSION-v0.2.6-3A6B9C?style=for-the-badge">
     <img alt="Arch Linux package"     src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
     <img alt="Android APK"            src="https://img.shields.io/badge/Android-40A650?style=for-the-badge&logo=android&logoColor=white">
 </p>
@@ -121,6 +122,8 @@ https://github.com/sudo-megas/TRITIUM
 **RESONANCE** is free software under the **GNU General Public License, version 3 or later**
 (`GPL-3.0-or-later`).
 
+**TRITIUM** is free software under the **GNU General Public License, version 3 or later**
+(`GPL-3.0-or-later`).
 
 Copyright © sudo-megas · <https://github.com/sudo-megas>
 
