@@ -11,6 +11,7 @@ depends=(
   'parachron'
   'indium'
   'resonance'
+  'tritium'
 )
 
 package() {
